@@ -70,8 +70,3 @@ https://github.com/NicoleTrujillano/Projeto-MVC.git
 | **Menu Notas e Faltas**                    | ![Tela Menu Notas e Faltas](images/menu_notas_e_faltas.png)    |
 | **Menu Ajuda**                    | ![Tela Menu Ajuda](images/menu_ajuda.png)    |
 
----
-
-## ✍️ Autora
-Nicole Trujillano
-[LinkedIn](https://www.linkedin.com/in/nicole-trujillano-292aa4358/)
